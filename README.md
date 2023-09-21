@@ -1,4 +1,4 @@
-# Busca Binaria
+# Busca Binária
 Busca Binaria em C#
 
 O algoritmo começa com dois índices, esquerda e direita, que representam o subarray onde a busca está sendo realizada, inicialmente abrangendo todo o array.
