@@ -1,0 +1,14 @@
+C:\GIT\BuscaBinaria\bin\Debug\net7.0\BuscaBinaria.exe
+C:\GIT\BuscaBinaria\bin\Debug\net7.0\BuscaBinaria.deps.json
+C:\GIT\BuscaBinaria\bin\Debug\net7.0\BuscaBinaria.runtimeconfig.json
+C:\GIT\BuscaBinaria\bin\Debug\net7.0\BuscaBinaria.dll
+C:\GIT\BuscaBinaria\bin\Debug\net7.0\BuscaBinaria.pdb
+C:\GIT\BuscaBinaria\obj\Debug\net7.0\BuscaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\BuscaBinaria\obj\Debug\net7.0\BuscaBinaria.AssemblyInfoInputs.cache
+C:\GIT\BuscaBinaria\obj\Debug\net7.0\BuscaBinaria.AssemblyInfo.cs
+C:\GIT\BuscaBinaria\obj\Debug\net7.0\BuscaBinaria.csproj.CoreCompileInputs.cache
+C:\GIT\BuscaBinaria\obj\Debug\net7.0\BuscaBinaria.dll
+C:\GIT\BuscaBinaria\obj\Debug\net7.0\refint\BuscaBinaria.dll
+C:\GIT\BuscaBinaria\obj\Debug\net7.0\BuscaBinaria.pdb
+C:\GIT\BuscaBinaria\obj\Debug\net7.0\BuscaBinaria.genruntimeconfig.cache
+C:\GIT\BuscaBinaria\obj\Debug\net7.0\ref\BuscaBinaria.dll
